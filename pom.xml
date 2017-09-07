@@ -22,9 +22,12 @@
 	</dependencies>
 
 
-<build>
+<!--<build>
 <plugins>
 
+<!--    
+Add JaCOCO Plugin
+-->
 <plugin>
 <groupId>org.jacoco</groupId>
 <artitactId>jacoco-maven-plugin</artifactId>
@@ -52,6 +55,6 @@
 
 </plugins>
 </build>
-
+-->
 
 </project>
