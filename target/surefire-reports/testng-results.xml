@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="36" started-at="2017-08-29T14:20:21Z" finished-at="2017-08-29T14:20:21Z">
+  <suite name="Command line suite" duration-ms="34" started-at="2017-09-05T19:36:43Z" finished-at="2017-09-05T19:36:43Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="36" started-at="2017-08-29T14:20:21Z" finished-at="2017-08-29T14:20:21Z">
+    <test name="Command line test" duration-ms="34" started-at="2017-09-05T19:36:43Z" finished-at="2017-09-05T19:36:43Z">
       <class name="crm.testcases.LoginTest">
-        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:crm.testcases.LoginTest@180bc464]" name="f" duration-ms="8" started-at="2017-08-29T19:50:21Z" data-provider="dp" finished-at="2017-08-29T19:50:21Z">
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:crm.testcases.LoginTest@180bc464]" name="f" duration-ms="8" started-at="2017-09-06T01:06:43Z" data-provider="dp" finished-at="2017-09-06T01:06:43Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:crm.testcases.LoginTest@180bc464]" name="f" duration-ms="0" started-at="2017-08-29T19:50:21Z" data-provider="dp" finished-at="2017-08-29T19:50:21Z">
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:crm.testcases.LoginTest@180bc464]" name="f" duration-ms="0" started-at="2017-09-06T01:06:43Z" data-provider="dp" finished-at="2017-09-06T01:06:43Z">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="FAIL" signature="f2(java.lang.Integer, java.lang.String)[pri:0, instance:crm.testcases.LoginTest@180bc464]" name="f2" duration-ms="0" started-at="2017-08-29T19:50:21Z" finished-at="2017-08-29T19:50:21Z">
+        <test-method status="FAIL" signature="f2(java.lang.Integer, java.lang.String)[pri:0, instance:crm.testcases.LoginTest@180bc464]" name="f2" duration-ms="0" started-at="2017-09-06T01:06:43Z" finished-at="2017-09-06T01:06:43Z">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
